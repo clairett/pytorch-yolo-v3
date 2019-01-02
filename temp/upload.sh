@@ -1,0 +1,1 @@
+rsync -avz ../aspect_extraction ubuntu@ec2-34-221-128-187.us-west-2.compute.amazonaws.com:~/ttian/aspect-extraction/
